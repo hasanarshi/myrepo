@@ -1,4 +1,4 @@
-before using this project please folow given guideliens
+before using this project please follow given guideliens
 
 1. create a database inside MySQL server. The name of database must be 'mydb'
 2. create a table inside 'mydb'. table name must be userinfo
