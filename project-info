@@ -1,0 +1,5 @@
+before using this project please folow given guideliens
+
+1. create a database inside MySQL server. The name of database must be 'mydb'
+2. create a table inside 'mydb'. table name must be userinfo
+create table mydb.userinfo(name varchar(100) not null, email varchar(100), password varchar(100), primary key(email));
